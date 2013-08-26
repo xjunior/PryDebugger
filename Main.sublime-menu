@@ -1,0 +1,22 @@
+[
+	{
+		"id": "tools",
+		"children": [
+			{
+				"caption": "Pry Debugger",
+				"mnemonic": "D",
+				"id": "pry",
+				"children": [
+					{
+						"caption": "Toggle Breakpoint",
+						"command": "toggle_breakpoint"
+					},
+					{
+						"caption": "Open Debugger",
+						"command": "open_debugger"
+					}
+				]
+			}
+		]
+	}
+]

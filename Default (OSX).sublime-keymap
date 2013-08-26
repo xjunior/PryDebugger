@@ -1,0 +1,4 @@
+[
+	{"keys": ["super+f8"], "command": "toggle_breakpoint"},
+	{"keys": ["super+u"], "command": "open_debugger"}
+]
